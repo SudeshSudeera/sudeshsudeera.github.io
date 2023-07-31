@@ -59,26 +59,3 @@ const typed = new Typed('.multiple-text', {
     backDelay: 1000,
     loop: true
 });
-
-
-//================== smtp js (mail process) ======================
-
-// function sendEmail(){
-//     Email.send({
-//         Host : "smtp.gmail.com",
-//         Username : "maldinukshi@gmail.com",
-//         Password : "mala1966",
-//         To : 'sudeshsudeera@gmail.com',
-//         /* Fullname: document.getElementById("fullName").value,
-//         Mobilenumber: document.getElementById("number").value, */
-//         From : document.getElementById("email").value,
-//         Subject : document.getElementById("emailSubject").value,
-//         Body : document.getElementById("body").value
-//     }).then(
-//       message => alert(message)
-//     );
-// }
-
-
-
-//================== mail process ======================
