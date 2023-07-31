@@ -66,10 +66,12 @@ span{
     color: var(--text-color);
     font-weight: 700;
     cursor: default;
+    ;
 }
 
 .logo > img{
     height: 62px;
+    cursor: pointer;
 }
 
 .navbar a {
