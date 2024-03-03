@@ -251,6 +251,10 @@ span{
     transition: 0.5s ease;
 }
 
+.qualifications-container .qualifications-box .tse .tse-description p{
+    color: rgb(195, 186, 186);
+    text-align: justify;
+}
 
 .qualifications-container .qualifications-box .se .se-description p{
     color: rgb(195, 186, 186);
@@ -258,6 +262,11 @@ span{
 }
 
 .qualifications-container .qualifications-box .et .et-description p{
+    color: rgb(195, 186, 186);
+    text-align: justify;
+}
+
+.qualifications-container .qualifications-box .dev .dev-description p{
     color: rgb(195, 186, 186);
     text-align: justify;
 }
